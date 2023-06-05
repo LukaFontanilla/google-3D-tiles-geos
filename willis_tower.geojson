@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Willis Tower",
-        "long": -87.63594943433745,
+        "long": 87.63594943433745,
         "lat": 41.87879018483409
       },
       "geometry": {
@@ -41,7 +41,7 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          -87.63594943433745,
+          87.63594943433745,
           41.87879018483409
         ],
         "type": "Point"
@@ -52,7 +52,7 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          -87.6215374884555,
+          87.6215374884555,
           41.885103038207546
         ],
         "type": "Point"
@@ -63,7 +63,7 @@
       "properties": {
         "name": "Aon Center",
         "lat": 41.885103038207546,
-        "long": -87.6215374884555
+        "long": 87.6215374884555
       },
       "geometry": {
         "coordinates": [
@@ -98,7 +98,7 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          -87.62653412671393,
+          87.62653412671393,
           41.88880076387207
         ],
         "type": "Point"
@@ -109,7 +109,7 @@
       "properties": {
         "name": "Trump International Hotel & Tower",
         "lat": 41.88880076387207
-        "long": -87.62653412671393
+        "long": 87.62653412671393
       },
       "geometry": {
         "coordinates": [
