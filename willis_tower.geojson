@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Willis Tower"
+        "name": "Willis Tower",
+        "order": 0
       },
       "geometry": {
         "coordinates": [
@@ -37,7 +38,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aon Center"
+        "name": "Aon Center",
+        "order": 1
       },
       "geometry": {
         "coordinates": [
@@ -70,7 +72,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trump International Hotel & Tower"
+        "name": "Trump International Hotel & Tower",
+        "order": 2
       },
       "geometry": {
         "coordinates": [
